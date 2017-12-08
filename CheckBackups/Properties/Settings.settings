@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CheckBackups.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MailServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server.domain.net</Value>
+    </Setting>
+    <Setting Name="MailFrom" Type="System.String" Scope="User">
+      <Value Profile="(Default)">checkbakups@domain.net</Value>
+    </Setting>
+    <Setting Name="RecipientsList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin@domain.net</Value>
+    </Setting>
+    <Setting Name="ReportFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">reports.xml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
